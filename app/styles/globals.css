@@ -1,4 +1,8 @@
-html,
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -13,4 +17,16 @@ a {
 
 * {
   box-sizing: border-box;
+} */
+/* .shirts {
+  width: 10em;
 }
+.product {
+  gap: 1em;
+  display: grid;
+  margin: 2em;
+}
+.productName {
+  font-weight: bold;
+  margin: 1em;
+} */
